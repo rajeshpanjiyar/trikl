@@ -1,5 +1,7 @@
 # Trikl-app
-A TypeScript based React Web application that fetches random images using Unsplash API and allows custom text overlays on it.
+A TypeScript-based React Web application that fetches random images using Unsplash API and allows custom text overlays on it.
+
+This application was built as a solution for an assignment of a company named Trikl.
 
 # Getting Started with Create React App
 
